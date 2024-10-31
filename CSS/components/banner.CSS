@@ -1,0 +1,18 @@
+.banner {
+  /* 1. Set a background image */
+  background-image: url(../../images/background.jpg);   
+  /* 2. Make the background image cover the banner div */
+	background-size: cover;     
+  /* 3. Center the image */
+	background-position: center;
+}
+.banner h1 {
+  color: #7C1A1A;
+  font-size: 70px;
+}
+.banner h2 {
+  color: #FFFFF0;
+  font-size: 40px;
+  font-weight:;
+	opacity: 10;
+}
